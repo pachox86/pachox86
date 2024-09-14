@@ -1,4 +1,4 @@
-![Batman Banner](https://cdn.discordapp.com/attachments/1275926866674450575/1280579092068171887/the-amazing-spider-man-logo-clip-art-spiderman-symbol-1facfc2e2b8ab5d4dc2177dc8509e8da.png?ex=66d897b7&is=66d74637&hm=4160beaa7c9e42bd0d1ad977f71e7a27e01806205355bab845b0cbf7f63af8e8&)
+
 
 <h1 align="center">hello world</h1>
 <h3 align="center">A passionate computer nerd</h3>
